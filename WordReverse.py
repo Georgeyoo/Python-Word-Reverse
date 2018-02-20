@@ -1,2 +1,5 @@
-print ("I added this line to make a change to the original repo")
 my_string = input()
+
+reversed_string = my_string[::-1]
+
+print(reversed_string)
